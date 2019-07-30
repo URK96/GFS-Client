@@ -1,0 +1,5 @@
+WebClient를 요청하는 동안 예외가 발생했습니다.
+
+   위치: System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   위치: System.Net.WebClient.DownloadFile(String address, String fileName)
+   위치: Girls_FrontierLine_Updater.Updater.<UpdateClientNew>d__5.MoveNext() 파일 C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Updater\Updater.cs:줄 475

@@ -1,0 +1,25 @@
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Client Updater\bin\Release\Girls FrontierLine Client Updater.exe.config
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Client Updater\bin\Release\Girls FrontierLine Client Updater.exe.manifest
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Client Updater\bin\Release\Girls FrontierLine Client Updater.application
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Client Updater\bin\Release\Girls FrontierLine Client Updater.exe
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Client Updater\obj\Release\Girls_FrontierLine_Client_Updater.MainForm.resources
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Client Updater\obj\Release\Girls FrontierLine Client Updater.csproj.GenerateResource.Cache
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Client Updater\obj\Release\Girls FrontierLine Client Updater.TrustInfo.xml
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Client Updater\obj\Release\Girls FrontierLine Client Updater.exe.manifest
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Client Updater\obj\Release\Girls FrontierLine Client Updater.application
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Client Updater\obj\Release\Girls FrontierLine Client Updater.exe
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Client Updater\bin\Release\Girls FrontierLine Client Updater.exe.config
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Client Updater\bin\Release\Girls FrontierLine Client Updater.exe
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Client Updater\obj\Release\Girls_FrontierLine_Client_Updater.MainForm.resources
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Client Updater\obj\Release\Girls FrontierLine Client Updater.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Client Updater\obj\Release\Girls FrontierLine Client Updater.exe
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Client Updater\obj\Release\Girls FrontierLine Client Updater.csprojResolveAssemblyReference.cache
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Client Updater\bin\Release\Girls FrontierLine Client Updater.exe.config
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Client Updater\bin\Release\Girls FrontierLine Client Updater.exe
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Client Updater\bin\Release\spine-csharp.dll
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Client Updater\obj\Release\Girls FrontierLine Client Updater.csprojAssemblyReference.cache
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Client Updater\obj\Release\Girls_FrontierLine_Client_Updater.MainForm.resources
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Client Updater\obj\Release\Girls FrontierLine Client Updater.csproj.GenerateResource.cache
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Client Updater\obj\Release\Girls FrontierLine Client Updater.csproj.CoreCompileInputs.cache
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Client Updater\obj\Release\Girls FrontierLine Client Updater.csproj.CopyComplete
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Client Updater\obj\Release\Girls FrontierLine Client Updater.exe

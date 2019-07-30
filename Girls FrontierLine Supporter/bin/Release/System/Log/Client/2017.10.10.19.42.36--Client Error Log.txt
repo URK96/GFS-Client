@@ -1,0 +1,5 @@
+'0'의 InvalidArgument=Value는 'index'에 사용할 수 없습니다.
+매개 변수 이름: index
+
+   위치: System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   위치: Girls_FrontierLine_Supporter.MainForm.TestListView_SelectedIndexChanged(Object sender, EventArgs e)

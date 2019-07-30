@@ -1,0 +1,5 @@
+'Place' 열은 FreeOP 테이블에 속하지 않습니다.
+
+   위치: System.Data.DataRow.GetDataColumn(String columnName)
+   위치: System.Data.DataRow.get_Item(String columnName)
+   위치: Girls_FrontierLine_Supporter.ETC.FindDataRow[T](DataTable table, String index, T value) 파일 E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\ETC.cs:줄 154

@@ -1,0 +1,4 @@
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+   위치: Girls_FrontierLine_Supporter.MainForm.RankProcess() 파일 E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 4007
+   위치: Girls_FrontierLine_Supporter.MainForm.PrintRecommendMDButton_Click(Object sender, EventArgs e) 파일 E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 3950

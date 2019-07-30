@@ -1,0 +1,5 @@
+서식 지정자가 잘못되었습니다.
+
+   위치: System.Number.FormatDecimal(Decimal value, String format, NumberFormatInfo info)
+   위치: System.Decimal.ToString(String format)
+   위치: Girls_FrontierLine_Supporter.MainForm.Weight_ValueChanged(Object sender, EventArgs e) 파일 E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 4266

@@ -1,0 +1,5 @@
+'minValue'은(는) maxValue보다 클 수 없습니다.
+매개 변수 이름: minValue
+
+   위치: System.Random.Next(Int32 minValue, Int32 maxValue)
+   위치: Girls_FrontierLine_Supporter.MainForm.<ProductProcess_Equipment>d__111.MoveNext() 파일 E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 3663

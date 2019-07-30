@@ -1,0 +1,923 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Equipment" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Equipment">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Category" type="xs:string" minOccurs="0" />
+                <xs:element name="Grade" type="xs:int" minOccurs="0" />
+                <xs:element name="Ability" type="xs:string" minOccurs="0" />
+                <xs:element name="InitialMagnification" type="xs:string" minOccurs="0" />
+                <xs:element name="MaxMagnification" type="xs:string" minOccurs="0" />
+                <xs:element name="ProductTime" type="xs:int" minOccurs="0" />
+                <xs:element name="DollType" type="xs:string" minOccurs="0" />
+                <xs:element name="OnlyUse" type="xs:string" minOccurs="0" />
+                <xs:element name="Note" type="xs:string" minOccurs="0" />
+                <xs:element name="Icon" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Equipment>
+    <Name>BM 3-12X40</Name>
+    <Type>옵티컬(광학조준경)</Type>
+    <Category>부속</Category>
+    <Grade>2</Grade>
+    <Ability>치명타율</Ability>
+    <InitialMagnification>+5~8</InitialMagnification>
+    <MaxMagnification>강화 불가</MaxMagnification>
+    <ProductTime>5</ProductTime>
+    <DollType>HG,N;SMG,U;AR,F;RF,F;MG,F;SG,U</DollType>
+    <Icon>Optical</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>LRA 2-12X50</Name>
+    <Type>옵티컬(광학조준경)</Type>
+    <Category>부속</Category>
+    <Grade>3</Grade>
+    <Ability>치명타율</Ability>
+    <InitialMagnification>+9~12</InitialMagnification>
+    <MaxMagnification>+24</MaxMagnification>
+    <ProductTime>20</ProductTime>
+    <DollType>HG,N;SMG,U;AR,F;RF,F;MG,F;SG,U</DollType>
+    <Icon>Optical</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>PSO-1</Name>
+    <Type>옵티컬(광학조준경)</Type>
+    <Category>부속</Category>
+    <Grade>4</Grade>
+    <Ability>치명타율</Ability>
+    <InitialMagnification>+13~+16</InitialMagnification>
+    <MaxMagnification>+32</MaxMagnification>
+    <ProductTime>35</ProductTime>
+    <DollType>HG,N;SMG,U;AR,F;RF,F;MG,F;SG,U</DollType>
+    <Icon>Optical</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>VFL 6-24X56</Name>
+    <Type>옵티컬(광학조준경)</Type>
+    <Category>부속</Category>
+    <Grade>5</Grade>
+    <Ability>치명타율</Ability>
+    <InitialMagnification>+17~24</InitialMagnification>
+    <MaxMagnification>+48</MaxMagnification>
+    <ProductTime>45</ProductTime>
+    <DollType>HG,N;SMG,U;AR,F;RF,F;MG,F;SG,U</DollType>
+    <Icon>Optical</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>EOT 506</Name>
+    <Type>이오텍(홀로그래픽 조준기)</Type>
+    <Category>부속</Category>
+    <Grade>2</Grade>
+    <Ability>명중;화력;사속</Ability>
+    <InitialMagnification>+1;+1;-1</InitialMagnification>
+    <MaxMagnification>강화 불가</MaxMagnification>
+    <ProductTime>8</ProductTime>
+    <DollType>HG,N;SMG,F;AR,U;RF,U;MG,U;SG,U</DollType>
+    <Icon>EOTech</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>EOT 512</Name>
+    <Type>이오텍(홀로그래픽 조준기)</Type>
+    <Category>부속</Category>
+    <Grade>3</Grade>
+    <Ability>명중;화력;사속</Ability>
+    <InitialMagnification>+2;+1~2;-2</InitialMagnification>
+    <MaxMagnification>+3;+3;-2</MaxMagnification>
+    <ProductTime>23</ProductTime>
+    <DollType>HG,N;SMG,F;AR,U;RF,U;MG,U;SG,U</DollType>
+    <Icon>EOTech</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>EOT 516</Name>
+    <Type>이오텍(홀로그래픽 조준기)</Type>
+    <Category>부속</Category>
+    <Grade>4</Grade>
+    <Ability>명중;화력;사속</Ability>
+    <InitialMagnification>+3~5;+2~3;-4~3</InitialMagnification>
+    <MaxMagnification>+7;+4;-3</MaxMagnification>
+    <ProductTime>38</ProductTime>
+    <DollType>HG,N;SMG,F;AR,U;RF,U;MG,U;SG,U</DollType>
+    <Icon>EOTech</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>EOT 518</Name>
+    <Type>이오텍(홀로그래픽 조준기)</Type>
+    <Category>부속</Category>
+    <Grade>5</Grade>
+    <Ability>명중;화력;사속</Ability>
+    <InitialMagnification>+6~10;+4~6;-6~4</InitialMagnification>
+    <MaxMagnification>+14;+8;-4</MaxMagnification>
+    <ProductTime>48</ProductTime>
+    <DollType>HG,N;SMG,F;AR,U;RF,U;MG,U;SG,U</DollType>
+    <Icon>EOTech</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>AMP COMPM2</Name>
+    <Type>레드 닷 조준기</Type>
+    <Category>부속</Category>
+    <Grade>2</Grade>
+    <Ability>명중;사속</Ability>
+    <InitialMagnification>+2~3;-1</InitialMagnification>
+    <MaxMagnification>강화 불가</MaxMagnification>
+    <ProductTime>10</ProductTime>
+    <DollType>HG,N;SMG,U;AR,U;RF,U;MG,F;SG,F</DollType>
+    <Icon>RedDot</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>AMP COMPM4</Name>
+    <Type>레드 닷 조준기</Type>
+    <Category>부속</Category>
+    <Grade>3</Grade>
+    <Ability>명중;사속</Ability>
+    <InitialMagnification>+4~6;-2~1</InitialMagnification>
+    <MaxMagnification>+12;-1</MaxMagnification>
+    <ProductTime>25</ProductTime>
+    <DollType>HG,N;SMG,U;AR,U;RF,U;MG,F;SG,F</DollType>
+    <Icon>RedDot</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>COG M150</Name>
+    <Type>레드 닷 조준기</Type>
+    <Category>부속</Category>
+    <Grade>4</Grade>
+    <Ability>명중;사속</Ability>
+    <InitialMagnification>+7~10;-3~1</InitialMagnification>
+    <MaxMagnification>+20;-1</MaxMagnification>
+    <ProductTime>40</ProductTime>
+    <DollType>HG,N;SMG,U;AR,U;RF,U;MG,F;SG,F</DollType>
+    <Icon>RedDot</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>ITI MARS</Name>
+    <Type>레드 닷 조준기</Type>
+    <Category>부속</Category>
+    <Grade>5</Grade>
+    <Ability>명중;사속</Ability>
+    <InitialMagnification>+11~15;-4~1</InitialMagnification>
+    <MaxMagnification>+30;-1</MaxMagnification>
+    <ProductTime>50</ProductTime>
+    <DollType>HG,N;SMG,U;AR,U;RF,U;MG,F;SG,F</DollType>
+    <Icon>RedDot</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>PEQ-2</Name>
+    <Type>야시장비</Type>
+    <Category>부속</Category>
+    <Grade>2</Grade>
+    <Ability>야시능력</Ability>
+    <InitialMagnification>+51~55</InitialMagnification>
+    <MaxMagnification>+51~55</MaxMagnification>
+    <ProductTime>9</ProductTime>
+    <DollType>HG,F;SMG,U;AR,F;RF,N;MG,N;SG,U</DollType>
+    <Note>야간전 필수</Note>
+    <Icon>NightVision</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>PEQ-5</Name>
+    <Type>야시장비</Type>
+    <Category>부속</Category>
+    <Grade>3</Grade>
+    <Ability>야시능력</Ability>
+    <InitialMagnification>+61~70</InitialMagnification>
+    <MaxMagnification>+61~70</MaxMagnification>
+    <ProductTime>24</ProductTime>
+    <DollType>HG,F;SMG,U;AR,F;RF,N;MG,N;SG,U</DollType>
+    <Note>야간전 필수</Note>
+    <Icon>NightVision</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>PEQ-15</Name>
+    <Type>야시장비</Type>
+    <Category>부속</Category>
+    <Grade>4</Grade>
+    <Ability>야시능력</Ability>
+    <InitialMagnification>+76~85</InitialMagnification>
+    <MaxMagnification>+76~85</MaxMagnification>
+    <ProductTime>39</ProductTime>
+    <DollType>HG,F;SMG,U;AR,F;RF,N;MG,N;SG,U</DollType>
+    <Note>야간전 필수</Note>
+    <Icon>NightVision</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>PEQ-16A</Name>
+    <Type>야시장비</Type>
+    <Category>부속</Category>
+    <Grade>5</Grade>
+    <Ability>야시능력</Ability>
+    <InitialMagnification>+91~100</InitialMagnification>
+    <MaxMagnification>+91~100</MaxMagnification>
+    <ProductTime>49</ProductTime>
+    <DollType>HG,F;SMG,U;AR,F;RF,N;MG,N;SG,U</DollType>
+    <Note>야간전 필수</Note>
+    <Icon>NightVision</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>16Lab 적외선 지시기</Name>
+    <Type>야시장비</Type>
+    <Category>부속</Category>
+    <Grade>5</Grade>
+    <Ability>야시능력</Ability>
+    <InitialMagnification>+100</InitialMagnification>
+    <MaxMagnification>+100</MaxMagnification>
+    <ProductTime>0</ProductTime>
+    <DollType>HG,F;SMG,U;AR,F;RF,N;MG,N;SG,U</DollType>
+    <Note>큐브이벤트 E1 클리어 보상, 야간전 필수</Note>
+    <Icon>16LAB_NightVision</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>AC1 소음기</Name>
+    <Type>소음기</Type>
+    <Category>부속</Category>
+    <Grade>2</Grade>
+    <Ability>치명타율;회피</Ability>
+    <InitialMagnification>+4~5;+2</InitialMagnification>
+    <MaxMagnification>강화 불가</MaxMagnification>
+    <ProductTime>7</ProductTime>
+    <DollType>HG,F;SMG,F;AR,U;RF,U;MG,N;SG,N</DollType>
+    <Icon>Silencer</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>AC2 소음기</Name>
+    <Type>소음기</Type>
+    <Category>부속</Category>
+    <Grade>3</Grade>
+    <Ability>치명타율;회피</Ability>
+    <InitialMagnification>+6~8;+3</InitialMagnification>
+    <MaxMagnification>+11;+4</MaxMagnification>
+    <ProductTime>22</ProductTime>
+    <DollType>HG,F;SMG,F;AR,U;RF,U;MG,N;SG,N</DollType>
+    <Icon>Silencer</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>AC3 소음기</Name>
+    <Type>소음기</Type>
+    <Category>부속</Category>
+    <Grade>4</Grade>
+    <Ability>치명타율;회피</Ability>
+    <InitialMagnification>+9~11;+4~5</InitialMagnification>
+    <MaxMagnification>+15;+7</MaxMagnification>
+    <ProductTime>37</ProductTime>
+    <DollType>HG,F;SMG,F;AR,U;RF,U;MG,N;SG,N</DollType>
+    <Icon>Silencer</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>AC4 소음기</Name>
+    <Type>소음기</Type>
+    <Category>부속</Category>
+    <Grade>5</Grade>
+    <Ability>치명타율;회피</Ability>
+    <InitialMagnification>+12~15;+6~8</InitialMagnification>
+    <MaxMagnification>+19;+10</MaxMagnification>
+    <ProductTime>47</ProductTime>
+    <DollType>HG,F;SMG,F;AR,U;RF,U;MG,N;SG,N</DollType>
+    <Icon>Silencer</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>M61 철갑탄</Name>
+    <Type>철갑탄</Type>
+    <Category>탄환</Category>
+    <Grade>2</Grade>
+    <Ability>관통</Ability>
+    <InitialMagnification>+25~35</InitialMagnification>
+    <MaxMagnification>강화 불가</MaxMagnification>
+    <ProductTime>15</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,F;MG,F;SG,N</DollType>
+    <Note>6P62, 컨텐더 사용가능, 장갑관통</Note>
+    <Icon>APAmmo</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>M993 철갑탄</Name>
+    <Type>철갑탄</Type>
+    <Category>탄환</Category>
+    <Grade>3</Grade>
+    <Ability>관통</Ability>
+    <InitialMagnification>+40~50</InitialMagnification>
+    <MaxMagnification>+75</MaxMagnification>
+    <ProductTime>30</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,F;MG,F;SG,N</DollType>
+    <Note>6P62, 컨텐더 사용가능, 장갑관통</Note>
+    <Icon>APAmmo</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>Mk169 철갑탄</Name>
+    <Type>철갑탄</Type>
+    <Category>탄환</Category>
+    <Grade>4</Grade>
+    <Ability>관통</Ability>
+    <InitialMagnification>+55~65</InitialMagnification>
+    <MaxMagnification>+97</MaxMagnification>
+    <ProductTime>45</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,F;MG,F;SG,N</DollType>
+    <Note>6P62, 컨텐더 사용가능, 장갑관통</Note>
+    <Icon>APAmmo</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>Mk211 고폭철갑탄</Name>
+    <Type>철갑탄</Type>
+    <Category>탄환</Category>
+    <Grade>5</Grade>
+    <Ability>관통</Ability>
+    <InitialMagnification>+70~80</InitialMagnification>
+    <MaxMagnification>+120</MaxMagnification>
+    <ProductTime>55</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,F;MG,F;SG,N</DollType>
+    <Note>6P62, 컨텐더 사용가능, 장갑관통</Note>
+    <Icon>APAmmo</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>16Lab 차구경철갑탄</Name>
+    <Type>철갑탄</Type>
+    <Category>탄환</Category>
+    <Grade>5</Grade>
+    <Ability>관통</Ability>
+    <InitialMagnification>+80</InitialMagnification>
+    <MaxMagnification>+120</MaxMagnification>
+    <ProductTime>0</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,F;MG,F;SG,N</DollType>
+    <Note>큐브이벤트 E3 클리어 보상, 6P62, 컨텐더 사용가능, 장갑관통</Note>
+    <Icon>16LAB_APAmmo</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>FMJ 고속탄</Name>
+    <Type>고속탄</Type>
+    <Category>탄환</Category>
+    <Grade>2</Grade>
+    <Ability>화력</Ability>
+    <InitialMagnification>+2</InitialMagnification>
+    <MaxMagnification>강화 불가</MaxMagnification>
+    <ProductTime>18</ProductTime>
+    <DollType>HG,N;SMG,N;AR,F;RF,N;MG,N;SG,N</DollType>
+    <Icon>HVAmmo</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>JSP 고속탄</Name>
+    <Type>고속탄</Type>
+    <Category>탄환</Category>
+    <Grade>3</Grade>
+    <Ability>화력</Ability>
+    <InitialMagnification>+3~4</InitialMagnification>
+    <MaxMagnification>+8</MaxMagnification>
+    <ProductTime>33</ProductTime>
+    <DollType>HG,N;SMG,N;AR,F;RF,N;MG,N;SG,N</DollType>
+    <Icon>HVAmmo</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>JHP 고속탄</Name>
+    <Type>고속탄</Type>
+    <Category>탄환</Category>
+    <Grade>4</Grade>
+    <Ability>화력</Ability>
+    <InitialMagnification>+5~7</InitialMagnification>
+    <MaxMagnification>+12</MaxMagnification>
+    <ProductTime>48</ProductTime>
+    <DollType>HG,N;SMG,N;AR,F;RF,N;MG,N;SG,N</DollType>
+    <Icon>HVAmmo</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>APCR 고속탄</Name>
+    <Type>고속탄</Type>
+    <Category>탄환</Category>
+    <Grade>5</Grade>
+    <Ability>화력</Ability>
+    <InitialMagnification>+8~12</InitialMagnification>
+    <MaxMagnification>+20</MaxMagnification>
+    <ProductTime>58</ProductTime>
+    <DollType>HG,N;SMG,N;AR,F;RF,N;MG,N;SG,N</DollType>
+    <Icon>HVAmmo</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>ILM HP탄 (2)</Name>
+    <Type>HP탄</Type>
+    <Category>탄환</Category>
+    <Grade>2</Grade>
+    <Ability>화력;관통</Ability>
+    <InitialMagnification>+1;-1</InitialMagnification>
+    <MaxMagnification>강화 불가</MaxMagnification>
+    <ProductTime>13</ProductTime>
+    <DollType>HG,F;SMG,F;AR,N;RF,N;MG,N;SG,N</DollType>
+    <Icon>HPAmmo</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>ILM HP탄 (3)</Name>
+    <Type>HP탄</Type>
+    <Category>탄환</Category>
+    <Grade>3</Grade>
+    <Ability>화력;관통</Ability>
+    <InitialMagnification>+2~3;-3~2</InitialMagnification>
+    <MaxMagnification>+5;-2</MaxMagnification>
+    <ProductTime>28</ProductTime>
+    <DollType>HG,F;SMG,F;AR,N;RF,N;MG,N;SG,N</DollType>
+    <Icon>HPAmmo</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>ILM HP탄 (4)</Name>
+    <Type>HP탄</Type>
+    <Category>탄환</Category>
+    <Grade>4</Grade>
+    <Ability>화력;관통</Ability>
+    <InitialMagnification>+4~6;-6~4</InitialMagnification>
+    <MaxMagnification>+9;-4</MaxMagnification>
+    <ProductTime>43</ProductTime>
+    <DollType>HG,F;SMG,F;AR,N;RF,N;MG,N;SG,N</DollType>
+    <Icon>HPAmmo</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>ILM HP탄 (5)</Name>
+    <Type>HP탄</Type>
+    <Category>탄환</Category>
+    <Grade>5</Grade>
+    <Ability>화력;관통</Ability>
+    <InitialMagnification>+7~10;-10~7</InitialMagnification>
+    <MaxMagnification>+15;-7</MaxMagnification>
+    <ProductTime>53</ProductTime>
+    <DollType>HG,F;SMG,F;AR,N;RF,N;MG,N;SG,N</DollType>
+    <Icon>HPAmmo</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>#1 벅샷</Name>
+    <Type>벅샷</Type>
+    <Category>탄환</Category>
+    <Grade>2</Grade>
+    <Ability>화력;치명피해</Ability>
+    <InitialMagnification>+1;+3~4</InitialMagnification>
+    <MaxMagnification>강화 불가</MaxMagnification>
+    <ProductTime>14</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,N;MG,N;SG,F</DollType>
+    <Icon>BuckShot</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>#0 벅샷</Name>
+    <Type>벅샷</Type>
+    <Category>탄환</Category>
+    <Grade>3</Grade>
+    <Ability>화력;치명피해</Ability>
+    <InitialMagnification>+2~3;+5~6</InitialMagnification>
+    <MaxMagnification>+4;+9</MaxMagnification>
+    <ProductTime>29</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,N;MG,N;SG,F</DollType>
+    <Icon>BuckShot</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>#00 벅샷</Name>
+    <Type>벅샷</Type>
+    <Category>탄환</Category>
+    <Grade>4</Grade>
+    <Ability>화력;치명피해</Ability>
+    <InitialMagnification>+4~6;+7~9</InitialMagnification>
+    <MaxMagnification>+9;+14</MaxMagnification>
+    <ProductTime>44</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,N;MG,N;SG,F</DollType>
+    <Icon>BuckShot</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>#000 벅샷</Name>
+    <Type>벅샷</Type>
+    <Category>탄환</Category>
+    <Grade>5</Grade>
+    <Ability>화력;치명피해</Ability>
+    <InitialMagnification>+7~10;+10~15</InitialMagnification>
+    <MaxMagnification>+15;+22</MaxMagnification>
+    <ProductTime>54</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,N;MG,N;SG,F</DollType>
+    <Icon>BuckShot</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>16Lab 벅샷</Name>
+    <Type>벅샷</Type>
+    <Category>탄환</Category>
+    <Grade>5</Grade>
+    <Ability>화력;치명피해</Ability>
+    <InitialMagnification>+10;+15</InitialMagnification>
+    <MaxMagnification>+15;+22</MaxMagnification>
+    <ProductTime>0</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,N;MG,N;SG,F</DollType>
+    <Note>저체온증 이벤트 2-2 클리어 보상</Note>
+    <Icon>16LAB_BuckShot</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>BK 슬러그</Name>
+    <Type>슬러그</Type>
+    <Category>탄환</Category>
+    <Grade>2</Grade>
+    <Ability>명중</Ability>
+    <InitialMagnification>+1~2</InitialMagnification>
+    <MaxMagnification>강화 불가</MaxMagnification>
+    <ProductTime>14</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,N;MG,N;SG,U</DollType>
+    <Note>장착 시 단일 타겟으로 바뀜</Note>
+    <Icon>SlugShot</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>FST 슬러그</Name>
+    <Type>슬러그</Type>
+    <Category>탄환</Category>
+    <Grade>3</Grade>
+    <Ability>명중</Ability>
+    <InitialMagnification>+3~4</InitialMagnification>
+    <MaxMagnification>+8</MaxMagnification>
+    <ProductTime>29</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,N;MG,N;SG,U</DollType>
+    <Note>장착 시 단일 타겟으로 바뀜</Note>
+    <Icon>SlugShot</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>WAD 슬러그</Name>
+    <Type>슬러그</Type>
+    <Category>탄환</Category>
+    <Grade>4</Grade>
+    <Ability>명중</Ability>
+    <InitialMagnification>+5~7</InitialMagnification>
+    <MaxMagnification>+13</MaxMagnification>
+    <ProductTime>44</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,N;MG,N;SG,U</DollType>
+    <Note>장착 시 단일 타겟으로 바뀜</Note>
+    <Icon>SlugShot</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>SABOT 슬러그</Name>
+    <Type>슬러그</Type>
+    <Category>탄환</Category>
+    <Grade>5</Grade>
+    <Ability>명중</Ability>
+    <InitialMagnification>+8~12</InitialMagnification>
+    <MaxMagnification>+20</MaxMagnification>
+    <ProductTime>54</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,N;MG,N;SG,U</DollType>
+    <Note>장착 시 단일 타겟으로 바뀜</Note>
+    <Icon>SlugShot</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>IOP T1 외골격</Name>
+    <Type>외골격</Type>
+    <Category>인형</Category>
+    <Grade>2</Grade>
+    <Ability>회피;화력</Ability>
+    <InitialMagnification>+6~8;-2~1</InitialMagnification>
+    <MaxMagnification>강화 불가</MaxMagnification>
+    <ProductTime>12</ProductTime>
+    <DollType>HG,F;SMG,F;AR,U;RF,N;MG,N;SG,N</DollType>
+    <Icon>Exo_T</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>IOP T2 외골격</Name>
+    <Type>외골격</Type>
+    <Category>인형</Category>
+    <Grade>3</Grade>
+    <Ability>회피;화력</Ability>
+    <InitialMagnification>+10~12;-4~3</InitialMagnification>
+    <MaxMagnification>+16;-3</MaxMagnification>
+    <ProductTime>27</ProductTime>
+    <DollType>HG,F;SMG,F;AR,U;RF,N;MG,N;SG,N</DollType>
+    <Icon>Exo_T</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>IOP T3 외골격</Name>
+    <Type>외골격</Type>
+    <Category>인형</Category>
+    <Grade>4</Grade>
+    <Ability>회피;화력</Ability>
+    <InitialMagnification>+14~16;-6~5</InitialMagnification>
+    <MaxMagnification>+22;-5</MaxMagnification>
+    <ProductTime>42</ProductTime>
+    <DollType>HG,F;SMG,F;AR,U;RF,N;MG,N;SG,N</DollType>
+    <Icon>Exo_T</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>IOP T4 외골격</Name>
+    <Type>외골격</Type>
+    <Category>인형</Category>
+    <Grade>5</Grade>
+    <Ability>회피;화력</Ability>
+    <InitialMagnification>+20~25;-8~6</InitialMagnification>
+    <MaxMagnification>+35;-6</MaxMagnification>
+    <ProductTime>52</ProductTime>
+    <DollType>HG,F;SMG,F;AR,U;RF,N;MG,N;SG,N</DollType>
+    <Icon>Exo_T</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>IOP X1 외골격</Name>
+    <Type>외골격</Type>
+    <Category>인형</Category>
+    <Grade>2</Grade>
+    <Ability>회피</Ability>
+    <InitialMagnification>+2~3</InitialMagnification>
+    <MaxMagnification>강화 불가</MaxMagnification>
+    <ProductTime>12</ProductTime>
+    <DollType>HG,U;SMG,U;AR,F;RF,N;MG,N;SG,N</DollType>
+    <Icon>Exo_X</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>IOP X2 외골격</Name>
+    <Type>외골격</Type>
+    <Category>인형</Category>
+    <Grade>3</Grade>
+    <Ability>회피</Ability>
+    <InitialMagnification>+4~5</InitialMagnification>
+    <MaxMagnification>+9</MaxMagnification>
+    <ProductTime>27</ProductTime>
+    <DollType>HG,U;SMG,U;AR,F;RF,N;MG,N;SG,N</DollType>
+    <Icon>Exo_X</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>IOP X3 외골격</Name>
+    <Type>외골격</Type>
+    <Category>인형</Category>
+    <Grade>4</Grade>
+    <Ability>회피</Ability>
+    <InitialMagnification>+6~7</InitialMagnification>
+    <MaxMagnification>+13</MaxMagnification>
+    <ProductTime>42</ProductTime>
+    <DollType>HG,U;SMG,U;AR,F;RF,N;MG,N;SG,N</DollType>
+    <Icon>Exo_X</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>IOP X4 외골격</Name>
+    <Type>외골격</Type>
+    <Category>인형</Category>
+    <Grade>5</Grade>
+    <Ability>회피</Ability>
+    <InitialMagnification>+8~12</InitialMagnification>
+    <MaxMagnification>+20</MaxMagnification>
+    <ProductTime>52</ProductTime>
+    <DollType>HG,U;SMG,U;AR,F;RF,N;MG,N;SG,N</DollType>
+    <Icon>Exo_X</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>Type1 방탄삽판</Name>
+    <Type>방탄판</Type>
+    <Category>인형</Category>
+    <Grade>3</Grade>
+    <Ability>장갑;회피</Ability>
+    <InitialMagnification>+3;-1</InitialMagnification>
+    <MaxMagnification>+4;-1</MaxMagnification>
+    <ProductTime>26</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,N;MG,N;SG,F</DollType>
+    <Note>M16A1 사용가능</Note>
+    <Icon>ArmorPlate</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>Type2 방탄삽판</Name>
+    <Type>방탄판</Type>
+    <Category>인형</Category>
+    <Grade>4</Grade>
+    <Ability>장갑;회피</Ability>
+    <InitialMagnification>+4~5;-1</InitialMagnification>
+    <MaxMagnification>+7;-1</MaxMagnification>
+    <ProductTime>41</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,N;MG,N;SG,F</DollType>
+    <Note>M16A1 사용가능</Note>
+    <Icon>ArmorPlate</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>Type3 방탄삽판</Name>
+    <Type>방탄판</Type>
+    <Category>인형</Category>
+    <Grade>5</Grade>
+    <Ability>장갑;회피</Ability>
+    <InitialMagnification>+6~8;-3~2</InitialMagnification>
+    <MaxMagnification>+11;-2</MaxMagnification>
+    <ProductTime>51</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,N;MG,N;SG,F</DollType>
+    <Note>M16A1 사용가능</Note>
+    <Icon>ArmorPlate</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>16Lab 방탄삽판</Name>
+    <Type>방탄판</Type>
+    <Category>인형</Category>
+    <Grade>5</Grade>
+    <Ability>장갑;회피</Ability>
+    <InitialMagnification>+8;-2</InitialMagnification>
+    <MaxMagnification>+11;-2</MaxMagnification>
+    <ProductTime>0</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,N;MG,N;SG,F</DollType>
+    <Note>저체온증 이벤트 2-4 클리어 보상, M16A1 사용가능</Note>
+    <Icon>16LAB_ArmorPlate</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>IOP 대용량 탄약상자</Name>
+    <Type>탄약통</Type>
+    <Category>인형</Category>
+    <Grade>4</Grade>
+    <Ability>장탄수;회피</Ability>
+    <InitialMagnification>+1;-1</InitialMagnification>
+    <MaxMagnification>+3;-1</MaxMagnification>
+    <ProductTime>47</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,N;MG,F;SG,N</DollType>
+    <Icon>AmmoBag</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>IOP 대용량 탄약통</Name>
+    <Type>탄약통</Type>
+    <Category>인형</Category>
+    <Grade>5</Grade>
+    <Ability>장탄수;회피</Ability>
+    <InitialMagnification>+2~3;-3~2</InitialMagnification>
+    <MaxMagnification>+5;-2</MaxMagnification>
+    <ProductTime>57</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,N;MG,F;SG,N</DollType>
+    <Icon>AmmoBag</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>낡은 슈트</Name>
+    <Type>슈트</Type>
+    <Category>인형</Category>
+    <Grade>2</Grade>
+    <Ability>치명피해;이동속도</Ability>
+    <InitialMagnification>+3~4;-3</InitialMagnification>
+    <MaxMagnification>강화 불가</MaxMagnification>
+    <ProductTime>16</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,U;MG,N;SG,N</DollType>
+    <Icon>GhillieSuit</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>위장용 슈트</Name>
+    <Type>슈트</Type>
+    <Category>인형</Category>
+    <Grade>3</Grade>
+    <Ability>치명피해;이동속도</Ability>
+    <InitialMagnification>+5~7;-3</InitialMagnification>
+    <MaxMagnification>+13;-3</MaxMagnification>
+    <ProductTime>31</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,U;MG,N;SG,N</DollType>
+    <Icon>GhillieSuit</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>도심위장 슈트</Name>
+    <Type>슈트</Type>
+    <Category>인형</Category>
+    <Grade>4</Grade>
+    <Ability>치명피해;이동속도</Ability>
+    <InitialMagnification>+8~10;-3</InitialMagnification>
+    <MaxMagnification>+18;-3</MaxMagnification>
+    <ProductTime>46</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,U;MG,N;SG,N</DollType>
+    <Icon>GhillieSuit</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>열광학 미채 슈트</Name>
+    <Type>슈트</Type>
+    <Category>인형</Category>
+    <Grade>5</Grade>
+    <Ability>치명피해;이동속도</Ability>
+    <InitialMagnification>+11~25;-3</InitialMagnification>
+    <MaxMagnification>+25;-3</MaxMagnification>
+    <ProductTime>56</ProductTime>
+    <DollType>HG,N;SMG,N;AR,N;RF,U;MG,N;SG,N</DollType>
+    <Icon>GhillieSuit</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>사격경기용 철갑탄</Name>
+    <Type>철갑탄</Type>
+    <Category>탄환</Category>
+    <Grade>0</Grade>
+    <Ability>관통;사속</Ability>
+    <InitialMagnification>+75~85;+1~8</InitialMagnification>
+    <MaxMagnification>+127;+10</MaxMagnification>
+    <ProductTime>0</ProductTime>
+    <OnlyUse>스프링필드</OnlyUse>
+    <Note>1-4N 클리어 드랍, 멘티코어 부대 처치</Note>
+    <Icon>SpringField Only</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>Titan 사격제어칩</Name>
+    <Type>칩셋</Type>
+    <Category>인형</Category>
+    <Grade>0</Grade>
+    <Ability>장탄수;화력;사속</Ability>
+    <InitialMagnification>+3~4;-4~2;-8~1</InitialMagnification>
+    <MaxMagnification>+6;-2;-1</MaxMagnification>
+    <ProductTime>0</ProductTime>
+    <OnlyUse>M1918</OnlyUse>
+    <Note>2-4N 클리어, 용기병 부대 처치</Note>
+    <Icon>M1918 Only</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>.300 BLK 고속탄</Name>
+    <Type>고속탄</Type>
+    <Category>탄환</Category>
+    <Grade>0</Grade>
+    <Ability>화력;명중</Ability>
+    <InitialMagnification>+12~16;-5~1</InitialMagnification>
+    <MaxMagnification>+25;-1</MaxMagnification>
+    <ProductTime>0</ProductTime>
+    <OnlyUse>ST AR-15</OnlyUse>
+    <Note>3-4N 클리어, 멘티코어 부대 처치</Note>
+    <Icon>ST AR-15 Only</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>GSG UX 외골격</Name>
+    <Type>외골격</Type>
+    <Category>인형</Category>
+    <Grade>0</Grade>
+    <Ability>회피;화력</Ability>
+    <InitialMagnification>+30~45;-6~10</InitialMagnification>
+    <MaxMagnification>+58;-6</MaxMagnification>
+    <ProductTime>0</ProductTime>
+    <OnlyUse>MP5</OnlyUse>
+    <Note>4-4N 클리어, 멘티코어 부대 처치</Note>
+    <Icon>MP5 Only</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>Hayha 메모리 칩</Name>
+    <Type>칩셋</Type>
+    <Category>인형</Category>
+    <Grade>0</Grade>
+    <Ability>화력;회피;치명피해</Ability>
+    <InitialMagnification>+18~25;+2~4;+15~20</InitialMagnification>
+    <MaxMagnification>+30;+5;+30</MaxMagnification>
+    <ProductTime>0</ProductTime>
+    <OnlyUse>모신나강</OnlyUse>
+    <Note>5-4N 클리어, 멘티코어 부대 처치</Note>
+    <Icon>Mosin Nagant Only</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>특수 기동장갑</Name>
+    <Type>방탄판</Type>
+    <Category>인형</Category>
+    <Grade>0</Grade>
+    <Ability>장갑;회피;명중;사속</Ability>
+    <InitialMagnification>+15;+8;-20;-10</InitialMagnification>
+    <MaxMagnification>+19;+10;-20;-10</MaxMagnification>
+    <ProductTime>0</ProductTime>
+    <OnlyUse>M16A1</OnlyUse>
+    <Note>6-4N 클리어, 알케미스트 부대 처치</Note>
+    <Icon>M16A1 Only</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>KSTSP</Name>
+    <Type>옵티컬(광학조준기)</Type>
+    <Category>부속</Category>
+    <Grade>0</Grade>
+    <Ability>치명타율;치명피해</Ability>
+    <InitialMagnification>+32;+40</InitialMagnification>
+    <MaxMagnification>+48;+44</MaxMagnification>
+    <ProductTime>0</ProductTime>
+    <OnlyUse>AK-47;56-1식</OnlyUse>
+    <Note>아크틱 이벤트 히든맵 랭킹 보상</Note>
+    <Icon>KST Series</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>KST1P8</Name>
+    <Type>옵티컬(광학조준기)</Type>
+    <Category>부속</Category>
+    <Grade>0</Grade>
+    <Ability>치명타율;치명피해</Ability>
+    <InitialMagnification>+32;+25</InitialMagnification>
+    <MaxMagnification>+48;+30</MaxMagnification>
+    <ProductTime>0</ProductTime>
+    <OnlyUse>AK-47;56-1식</OnlyUse>
+    <Note>아크틱 이벤트 히든맵 랭킹 보상</Note>
+    <Icon>KST Series</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>KST1P7</Name>
+    <Type>옵티컬(광학조준기)</Type>
+    <Category>부속</Category>
+    <Grade>0</Grade>
+    <Ability>치명타율;치명피해</Ability>
+    <InitialMagnification>+32;+10</InitialMagnification>
+    <MaxMagnification>+48;+15</MaxMagnification>
+    <ProductTime>0</ProductTime>
+    <OnlyUse>AK-47;56-1식</OnlyUse>
+    <Note>아크틱 이벤트 히든맵 랭킹 보상</Note>
+    <Icon>KST Series</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>UMP UX 외골격</Name>
+    <Type>외골격</Type>
+    <Category>인형</Category>
+    <Grade>0</Grade>
+    <Ability>회피;치명피해</Ability>
+    <InitialMagnification>+20~25;+11~15</InitialMagnification>
+    <MaxMagnification>+35;+25</MaxMagnification>
+    <ProductTime>0</ProductTime>
+    <OnlyUse>UMP9;UMP40;UMP45</OnlyUse>
+    <Note>Deep Dive 이벤트 2-3, 2-4, 3-2, 3-4 지역 특정몹 드랍</Note>
+    <Icon>UMP Series Only</Icon>
+  </Equipment>
+  <Equipment>
+    <Name>PKN03M 야간조준경</Name>
+    <Type>야시장비</Type>
+    <Category>부속</Category>
+    <Grade>0</Grade>
+    <Ability>화력;야시능력</Ability>
+    <InitialMagnification>+5;+100</InitialMagnification>
+    <MaxMagnification>+8;+100</MaxMagnification>
+    <ProductTime>0</ProductTime>
+    <OnlyUse>9A-91</OnlyUse>
+    <Note>Deep Dive 이벤트 히든 랭킹 상위 40% 보</Note>
+    <Icon>9A-91 Only</Icon>
+  </Equipment>
+</NewDataSet>

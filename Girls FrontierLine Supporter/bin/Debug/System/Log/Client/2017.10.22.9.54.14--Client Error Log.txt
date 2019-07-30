@@ -1,0 +1,5 @@
+인덱스가 범위를 벗어났습니다. 인덱스는 음수가 아니어야 하며 컬렉션의 크기보다 작아야 합니다.
+매개 변수 이름: index
+
+   위치: System.Collections.ArrayList.get_Item(Int32 index)
+   위치: Girls_FrontierLine_Supporter.MainForm.DollTestMoveImageBox_Click(Object sender, EventArgs e) 파일 C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 2376

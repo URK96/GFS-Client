@@ -1,0 +1,3 @@
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+   위치: Girls_FrontierLine_Supporter.MainForm.FormationSimulDollSelector_SelectedIndexChanged(Object sender, EventArgs e) 파일 C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 1931

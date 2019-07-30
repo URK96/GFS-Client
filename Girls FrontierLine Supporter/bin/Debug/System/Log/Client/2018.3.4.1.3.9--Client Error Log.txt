@@ -1,0 +1,4 @@
+System.ArgumentException: Y값은 문자열 개체에 데이터 바인딩될 수 없습니다.
+매개 변수 이름: yValues
+   위치: System.Windows.Forms.DataVisualization.Charting.DataPointCollection.DataBindXY(IEnumerable xValue, IEnumerable[] yValues)
+   위치: Girls_FrontierLine_Supporter.MainForm.CalcChart(Chart AbilityChart, DataRow dr) 파일 E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 4558

@@ -1,0 +1,5 @@
+'HasVoice' 열은 Doll 테이블에 속하지 않습니다.
+
+   위치: System.Data.DataRow.GetDataColumn(String columnName)
+   위치: System.Data.DataRow.get_Item(String columnName)
+   위치: Girls_FrontierLine_Supporter.MainForm.<PrintDollInfo>d__49.MoveNext()

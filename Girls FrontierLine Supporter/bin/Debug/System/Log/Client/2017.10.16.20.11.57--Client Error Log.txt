@@ -1,0 +1,5 @@
+'0'의 InvalidArgument=Value는 'index'에 사용할 수 없습니다.
+매개 변수 이름: index
+
+   위치: System.Windows.Forms.ImageList.ImageCollection.get_Item(Int32 index)
+   위치: Girls_FrontierLine_Supporter.MainForm.DollTestMoveImageBox_Click(Object sender, EventArgs e) 파일 C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 2060

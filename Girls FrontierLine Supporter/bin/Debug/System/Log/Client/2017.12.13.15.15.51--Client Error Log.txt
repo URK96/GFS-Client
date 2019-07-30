@@ -1,0 +1,6 @@
+HQ_Friendly.png
+
+   위치: System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   위치: System.Drawing.Image.FromFile(String filename)
+   위치: Girls_FrontierLine_Supporter.MainForm.CreatePlaceTile(DataRow dr, Int32 index, Int32 ParentX, Int32 ParentY) 파일 E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 3865
+   위치: Girls_FrontierLine_Supporter.MainForm.LoadMap() 파일 E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 3839

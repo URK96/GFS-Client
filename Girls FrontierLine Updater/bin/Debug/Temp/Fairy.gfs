@@ -1,0 +1,417 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Fairy" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Fairy">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="DicNumber" type="xs:int" minOccurs="0" />
+                <xs:element name="ProductTime" type="xs:int" minOccurs="0" />
+                <xs:element name="FireRate" type="xs:string" minOccurs="0" />
+                <xs:element name="Accuracy" type="xs:string" minOccurs="0" />
+                <xs:element name="Evasion" type="xs:string" minOccurs="0" />
+                <xs:element name="Armor" type="xs:string" minOccurs="0" />
+                <xs:element name="Critical" type="xs:string" minOccurs="0" />
+                <xs:element name="SkillName" type="xs:string" minOccurs="0" />
+                <xs:element name="SkillExplain" type="xs:string" minOccurs="0" />
+                <xs:element name="OrderConsume" type="xs:int" minOccurs="0" />
+                <xs:element name="CoolDown" type="xs:int" minOccurs="0" />
+                <xs:element name="SkillEffect" type="xs:string" minOccurs="0" />
+                <xs:element name="SkillRate" type="xs:string" minOccurs="0" />
+                <xs:element name="Note" type="xs:string" minOccurs="0" />
+                <xs:element name="ProductionPercent" type="xs:int" minOccurs="0" />
+                <xs:element name="RecommendProduction" type="xs:string" minOccurs="0" />
+                <xs:element name="AdvanceProductionPercent" type="xs:int" minOccurs="0" />
+                <xs:element name="AdvanceRecommendProduction" type="xs:string" minOccurs="0" />
+                <xs:element name="ProductDialog" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Fairy>
+    <Name>용사요정</Name>
+    <Type>전투</Type>
+    <DicNumber>1</DicNumber>
+    <ProductTime>270</ProductTime>
+    <FireRate>4.8/25</FireRate>
+    <Accuracy>16/80</Accuracy>
+    <Evasion>8/40</Evasion>
+    <Armor>2/10</Armor>
+    <Critical>0/0</Critical>
+    <SkillName>전투효율</SkillName>
+    <SkillExplain>다음 전투에서 제대의 모든 인형의 화력과 공속을 증가시킨다. (중첩불가)</SkillExplain>
+    <OrderConsume>1</OrderConsume>
+    <CoolDown>0</CoolDown>
+    <SkillEffect>화력;공속</SkillEffect>
+    <SkillRate>5/7/8/10/12/13/15/17/18/20;5/6/6/7/7/8/8/9/9/10</SkillRate>
+    <ProductDialog>공격 효율을 높여주는 능력을 지니고 있습니다. 평소에는 장비를 정비하는데 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>격노요정</Name>
+    <Type>전투</Type>
+    <DicNumber>2</DicNumber>
+    <ProductTime>275</ProductTime>
+    <FireRate>2.8/15</FireRate>
+    <Accuracy>0/0</Accuracy>
+    <Evasion>8/40</Evasion>
+    <Armor>2/10</Armor>
+    <Critical>8/40</Critical>
+    <SkillName>살의분출</SkillName>
+    <SkillExplain>다음 전투에서 제대의 모든 인형의 명중과 치명타 확률을 증가시킨다. (중첩불가)</SkillExplain>
+    <OrderConsume>1</OrderConsume>
+    <CoolDown>0</CoolDown>
+    <SkillEffect>명중;치명타</SkillEffect>
+    <SkillRate>10/14/19/23/28/32/37/41/46/50;10/12/13/15/17/18/20/22/23/25</SkillRate>
+    <ProductDialog>치명타 효율을 높여주는 능력을 지니고 있습니다. 평소에는 적을 도발하는데 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>방패요정</Name>
+    <Type>전투</Type>
+    <DicNumber>3</DicNumber>
+    <ProductTime>180</ProductTime>
+    <FireRate>4.4/22</FireRate>
+    <Accuracy>0/0</Accuracy>
+    <Evasion>0/0</Evasion>
+    <Armor>5.2/25</Armor>
+    <Critical>4.4/22</Critical>
+    <SkillName>진압강화</SkillName>
+    <SkillExplain>다음 전투에서 제대의 산탄총의 진압능력을 강화하여 20초간 장갑을 증가시킨다.</SkillExplain>
+    <OrderConsume>3</OrderConsume>
+    <CoolDown>0</CoolDown>
+    <SkillEffect>장갑</SkillEffect>
+    <SkillRate>15/19/23/27/31/34/38/42/46/50</SkillRate>
+    <ProductDialog>산탄총의 장갑을 강화하는 능력을 지니고 있습니다. 평소에는 지상의 경비에 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>수호요정</Name>
+    <Type>전투</Type>
+    <DicNumber>4</DicNumber>
+    <ProductTime>185</ProductTime>
+    <FireRate>4/20</FireRate>
+    <Accuracy>12/60</Accuracy>
+    <Evasion>16/80</Evasion>
+    <Armor>0/0</Armor>
+    <Critical>0/0</Critical>
+    <SkillName>에너지 쉴드</SkillName>
+    <SkillExplain>다음 전투에서 제대의 모든 기관단총에게 피해를 흡수하는 방어막을 생성한다.</SkillExplain>
+    <OrderConsume>3</OrderConsume>
+    <CoolDown>0</CoolDown>
+    <SkillEffect>쉴드체력</SkillEffect>
+    <SkillRate>40/50/60/70/80/90/100/110/130/150</SkillRate>
+    <ProductDialog>포스실드를 펼치는 능력을 지니고 있습니다. 평소에는 방수, 방진, 반재밍에 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>방어요정</Name>
+    <Type>책략</Type>
+    <DicNumber>5</DicNumber>
+    <ProductTime>250</ProductTime>
+    <FireRate>4/22</FireRate>
+    <Accuracy>0/0</Accuracy>
+    <Evasion>14.4/80</Evasion>
+    <Armor>3.6/20</Armor>
+    <Critical>0/0</Critical>
+    <SkillName>임시방호</SkillName>
+    <SkillExplain>1턴 동안 제대가 받는 피해를 감소시킨다. (20초 지속)</SkillExplain>
+    <OrderConsume>5</OrderConsume>
+    <CoolDown>1</CoolDown>
+    <SkillEffect>피해감소</SkillEffect>
+    <SkillRate>10/12/14/17/19/21/23/26/28/30</SkillRate>
+    <ProductDialog>방어 성능을 높여주는 능력을 지니고 있습니다. 평소에는 기밀 보호와 긴급 수리에 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>도발요정</Name>
+    <Type>전투</Type>
+    <DicNumber>6</DicNumber>
+    <ProductTime>190</ProductTime>
+    <FireRate>3.2/18</FireRate>
+    <Accuracy>10/58</Accuracy>
+    <Evasion>4.8/28</Evasion>
+    <Armor>1.6/8</Armor>
+    <Critical>4.4/25</Critical>
+    <SkillName>도발표적</SkillName>
+    <SkillExplain>다음 전투에서 적의 공격을 끌어당기는 표적을 설치한다.</SkillExplain>
+    <OrderConsume>2</OrderConsume>
+    <CoolDown>0</CoolDown>
+    <SkillEffect>표적체력</SkillEffect>
+    <SkillRate>250/300/350/400/500/600/700/800/900/1000</SkillRate>
+    <ProductDialog>도발 표적을 만들어 내는 능력을 지니고 있습니다. 평소에는 짓궃은 장난을 치는데 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>저격요정</Name>
+    <Type>전투</Type>
+    <DicNumber>7</DicNumber>
+    <ProductTime>210</ProductTime>
+    <FireRate>0/0</FireRate>
+    <Accuracy>17.6/88</Accuracy>
+    <Evasion>5.6/28</Evasion>
+    <Armor>3.2/15</Armor>
+    <Critical>7.2/36</Critical>
+    <SkillName>저격명령</SkillName>
+    <SkillExplain>다음 전투에서 가장 체력이 많은 적을 조준하여 피해를 입힌다.</SkillExplain>
+    <OrderConsume>2</OrderConsume>
+    <CoolDown>0</CoolDown>
+    <SkillEffect>피해량</SkillEffect>
+    <SkillRate>2500/4000/5500/7000/8000/10000/12500/15000/17500/20000</SkillRate>
+    <ProductDialog>적을 저격하는 능력을 지니고 있습니다. 평소에는 무기 교정에 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>포격요정</Name>
+    <Type>전투</Type>
+    <DicNumber>8</DicNumber>
+    <ProductTime>215</ProductTime>
+    <FireRate>10.8/55</FireRate>
+    <Accuracy>0/0</Accuracy>
+    <Evasion>11.2/56</Evasion>
+    <Armor>1.2/6</Armor>
+    <Critical>0/0</Critical>
+    <SkillName>포격명령</SkillName>
+    <SkillExplain>다음 전투에서 박격포를 발사하여 2.5 범위의 적들에게 피해를 입힌다.</SkillExplain>
+    <OrderConsume>3</OrderConsume>
+    <CoolDown>0</CoolDown>
+    <SkillEffect>피해량</SkillEffect>
+    <SkillRate>200/300/400/500/600/700/800/900/1000/1200</SkillRate>
+    <ProductDialog>박격포를 발사하는 능력을 지니고 있습니다. 평소에는 대청소에 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>공습요정</Name>
+    <Type>전투</Type>
+    <DicNumber>9</DicNumber>
+    <ProductTime>220</ProductTime>
+    <FireRate>4.8/30</FireRate>
+    <Accuracy>8/50</Accuracy>
+    <Evasion>6.4/40</Evasion>
+    <Armor>1.6/10</Armor>
+    <Critical>0/0</Critical>
+    <SkillName>공습발령</SkillName>
+    <SkillExplain>다음 전투 진입 시 공습지원을 호출하여 적 전체에 피해를 입힌다.</SkillExplain>
+    <OrderConsume>3</OrderConsume>
+    <CoolDown>0</CoolDown>
+    <SkillEffect>피해량</SkillEffect>
+    <SkillRate>80/120/160/200/240/280/320/360/400/500</SkillRate>
+    <ProductDialog>공습 지원을 호출하는 능력을 지니고 있습니다. 평소에는 높은 곳에서 작업할 때 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>증원요정</Name>
+    <Type>책략</Type>
+    <DicNumber>10</DicNumber>
+    <ProductTime>240</ProductTime>
+    <FireRate>2/12</FireRate>
+    <Accuracy>0/0</Accuracy>
+    <Evasion>14/88</Evasion>
+    <Armor>2/12</Armor>
+    <Critical>2.4/15</Critical>
+    <SkillName>증원호출</SkillName>
+    <SkillExplain>제대 중 체력이 가장 적은 전술인형의 편제를 1기 증원, 1턴 동안 모든 인형의 회피를 20초 동안 증가시킨다.</SkillExplain>
+    <OrderConsume>2</OrderConsume>
+    <CoolDown>1</CoolDown>
+    <SkillEffect>회피증가</SkillEffect>
+    <SkillRate>3/3.5/4/4.5/5/6/7/8/9/10</SkillRate>
+    <ProductDialog>증원 인형을 호출하는 능력을 지니고 있습니다. 평소에는 통신과 긴급 호출에 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>공수요정</Name>
+    <Type>책략</Type>
+    <DicNumber>11</DicNumber>
+    <ProductTime>245</ProductTime>
+    <FireRate>5.6/36</FireRate>
+    <Accuracy>0/0</Accuracy>
+    <Evasion>5.2/32</Evasion>
+    <Armor>1.2/8</Armor>
+    <Critical>6.4/40</Critical>
+    <SkillName>공수낙하</SkillName>
+    <SkillExplain>제대를 일정 범위 내의 헬리포트로 이동시킬 수 있지만 이동 후 2턴간 화력, 명중, 회피, 장갑, 치명타 확률이 감소한다.</SkillExplain>
+    <OrderConsume>5</OrderConsume>
+    <CoolDown>5</CoolDown>
+    <SkillEffect>능력감소</SkillEffect>
+    <SkillRate>90/85/80/75/70/65/60/55/50/40</SkillRate>
+    <ProductDialog>헬리포트를 제어하는 능력을 지니고 있습니다. 평소에는 부지를 세우는데 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>매설요정</Name>
+    <Type>책략</Type>
+    <DicNumber>12</DicNumber>
+    <ProductTime>330</ProductTime>
+    <FireRate>5.6/25</FireRate>
+    <Accuracy>10/44</Accuracy>
+    <Evasion>19.6/85</Evasion>
+    <Armor>0/0</Armor>
+    <Critical>0/0</Critical>
+    <SkillName>지뢰매설</SkillName>
+    <SkillExplain>적이 없는 인접거점에 2턴간 유지되는 지뢰를 매설한다. 적이 밟을 시 현재 체력에 비례한 피해를 준다. (보스무효)</SkillExplain>
+    <OrderConsume>5</OrderConsume>
+    <CoolDown>3</CoolDown>
+    <SkillEffect>피해율</SkillEffect>
+    <SkillRate>20/23/26/30/33/36/40/43/46/50</SkillRate>
+    <ProductDialog>지뢰를 매설하는 능력을 지니고 있습니다. 평소에는 작물을 심는데 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>로켓요정</Name>
+    <Type>책략</Type>
+    <DicNumber>13</DicNumber>
+    <ProductTime>335</ProductTime>
+    <FireRate>0/0</FireRate>
+    <Accuracy>10/44</Accuracy>
+    <Evasion>0/0</Evasion>
+    <Armor>5.2/22</Armor>
+    <Critical>8/35</Critical>
+    <SkillName>터렛설치</SkillName>
+    <SkillExplain>터렛을 설치하여 3발 장전 후 2턴간 2범위 내의 적이 이동 시 발사하여 현재 체력에 비례한 피해를 준다. (보스무효)</SkillExplain>
+    <OrderConsume>5</OrderConsume>
+    <CoolDown>3</CoolDown>
+    <SkillEffect>피해율</SkillEffect>
+    <SkillRate>10/11/12/13/14/15/16/17/18/20</SkillRate>
+    <ProductDialog>로켓포를 발사하는 능력을 지니고 있습니다. 평소에는 행사 날에 불꽃놀이를 쏘아 올리는데 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>공사요정</Name>
+    <Type>책략</Type>
+    <DicNumber>14</DicNumber>
+    <ProductTime>340</ProductTime>
+    <FireRate>3.6/15</FireRate>
+    <Accuracy>12/50</Accuracy>
+    <Evasion>9.6/40</Evasion>
+    <Armor>2.4/10</Armor>
+    <Critical>4.8/20</Critical>
+    <SkillName>요새구축</SkillName>
+    <SkillExplain>현재 거점에 고정요새를 건설한다. 3턴간 요새에서 전투 시 화력, 명중, 회피, 장갑, 치명타 확률이 증가한다.</SkillExplain>
+    <OrderConsume>5</OrderConsume>
+    <CoolDown>3</CoolDown>
+    <SkillEffect>능력증가</SkillEffect>
+    <SkillRate>10/12/14/16/18/20/22/24/27/30</SkillRate>
+    <ProductDialog>요새를 구축하는 능력을 지니고 있습니다. 평소에는 유지 보수와 작은 시설물을 만드는데 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>지휘요정</Name>
+    <Type>책략</Type>
+    <DicNumber>15</DicNumber>
+    <ProductTime>300</ProductTime>
+    <FireRate>8/36</FireRate>
+    <Accuracy>0/0</Accuracy>
+    <Evasion>7.6/32</Evasion>
+    <Armor>2/8</Armor>
+    <Critical>8.4/36</Critical>
+    <SkillName>초월경험</SkillName>
+    <SkillExplain>다음 전투에세 제대의 경험치 획득량이 증가한다. (경험특훈 사용불가)</SkillExplain>
+    <OrderConsume>1</OrderConsume>
+    <CoolDown>1</CoolDown>
+    <SkillEffect>경험치증가</SkillEffect>
+    <SkillRate>5/8/10/12/14/16/18/20/22/25</SkillRate>
+    <ProductDialog>작전 경험을 높여주는 능력을 지니고 있습니다. 평소에는 훈련과 교육에 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>수색요정</Name>
+    <Type>책략</Type>
+    <DicNumber>16</DicNumber>
+    <ProductTime>305</ProductTime>
+    <FireRate>7.6/32</FireRate>
+    <Accuracy>20/80</Accuracy>
+    <Evasion>16/64</Evasion>
+    <Armor>0/0</Armor>
+    <Critical>0/0</Critical>
+    <SkillName>효율수색</SkillName>
+    <SkillExplain>다음 전투에서 제대가 희귀 인형을 발견할 확률이 증가한다.</SkillExplain>
+    <OrderConsume>1</OrderConsume>
+    <CoolDown>1</CoolDown>
+    <SkillEffect>드랍증가</SkillEffect>
+    <SkillRate>아주조금/조금/조금많이/많이/아주많이</SkillRate>
+    <ProductDialog>인형을 수색하고 구조하는 능력을 지니고 있습니다. 평소에는 모두를 집합시켜 외출하거나 밥을 먹는데 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>조명요정</Name>
+    <Type>책략</Type>
+    <DicNumber>17</DicNumber>
+    <ProductTime>310</ProductTime>
+    <FireRate>0/0</FireRate>
+    <Accuracy>20/90</Accuracy>
+    <Evasion>7.2/32</Evasion>
+    <Armor>1.6/8</Armor>
+    <Critical>8.4/38</Critical>
+    <SkillName>야간조명</SkillName>
+    <SkillExplain>아간작전 시 2턴 동안 모든 인형의 명중을 20초 동안 증가시키며 시야를 늘려준다. (3레벨 1칸, 10레벨 2칸)</SkillExplain>
+    <OrderConsume>5</OrderConsume>
+    <CoolDown>5</CoolDown>
+    <SkillEffect>명중증가</SkillEffect>
+    <SkillRate>10/12/14/16/18/20/22/24/27/30</SkillRate>
+    <ProductDialog>야간작전 중 제대에 추가 시야를 제공하는 능력을 지니고 있습니다. 평소에는 야간탐험이나 암구호에 사용할 수 있을 것 같습니다.</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>황금요정</Name>
+    <Type>전투</Type>
+    <DicNumber>18</DicNumber>
+    <ProductTime>0</ProductTime>
+    <FireRate>2/20</FireRate>
+    <Accuracy>6/62</Accuracy>
+    <Evasion>4.8/50</Evasion>
+    <Armor>1.2/12</Armor>
+    <Critical>2.4/35</Critical>
+    <SkillName>황금요정</SkillName>
+    <SkillExplain>운명으로부터 온 계시가 당신의 의지를 충만하게 합니다.</SkillExplain>
+    <OrderConsume>0</OrderConsume>
+    <CoolDown>0</CoolDown>
+    <SkillEffect>효과</SkillEffect>
+    <SkillRate>다음 전투에서 요정이 반짝반짝 빛납니다.</SkillRate>
+    <Note>Deep Dive 히든 랭킹보</Note>
+    <ProductDialog>가지고 있는거...반짝반짝 빛나는 능력을 가지고 있는 것 같아! 평소에도 이렇게 할 수 있는 걸!</ProductDialog>
+  </Fairy>
+  <Fairy>
+    <Name>클로에</Name>
+    <Type>전투</Type>
+    <DicNumber>19</DicNumber>
+    <ProductTime>0</ProductTime>
+    <FireRate>4/18</FireRate>
+    <Accuracy>14/55</Accuracy>
+    <Evasion>16/64</Evasion>
+    <Armor>2/6</Armor>
+    <Critical>0/0</Critical>
+    <SkillName>[번역미정]</SkillName>
+    <SkillExplain>다음 전투에서 적의 공격을 끌어당기는 인형을 2개 설치한다. 인형은 2초마다 모든 적에게 공격한다.</SkillExplain>
+    <OrderConsume>2</OrderConsume>
+    <CoolDown>0</CoolDown>
+    <SkillEffect>인형체력;대미지</SkillEffect>
+    <SkillRate>?/?/?/?/?/?/?/?/?/600;?/?/?/?/?/?/?/?/?/100</SkillRate>
+    <Note>붕괴학원 2 콜라보</Note>
+  </Fairy>
+  <Fairy>
+    <Name>야에사쿠라</Name>
+    <Type>전투</Type>
+    <DicNumber>20</DicNumber>
+    <ProductTime>0</ProductTime>
+    <FireRate>6/26</FireRate>
+    <Accuracy>0/0</Accuracy>
+    <Evasion>6/24</Evasion>
+    <Armor>2/6</Armor>
+    <Critical>8/32</Critical>
+    <SkillName>[번역미정]</SkillName>
+    <SkillExplain>붉은 기둥이 적 위치에 생성되어 2초 동안 0.5초마다 대미지를 준다.</SkillExplain>
+    <OrderConsume>3</OrderConsume>
+    <CoolDown>0</CoolDown>
+    <SkillEffect>대미지</SkillEffect>
+    <SkillRate>?/?/?/?/?/?/?/?/?/120</SkillRate>
+    <Note>붕괴학원 2 콜라보</Note>
+  </Fairy>
+  <Fairy>
+    <Name>카구야</Name>
+    <Type>책략</Type>
+    <DicNumber>21</DicNumber>
+    <ProductTime>0</ProductTime>
+    <FireRate>0/0</FireRate>
+    <Accuracy>?/70</Accuracy>
+    <Evasion>?/24</Evasion>
+    <Armor>?/15</Armor>
+    <Critical>?/32</Critical>
+    <SkillName>[번역미정]</SkillName>
+    <SkillExplain>발동 지점을 기준으로 2범위 내의 적을 타격하는 레이저를 발사한다. 레이저는 랜덤으로 굴절하여 점위 내의 일정 수의 적을 타격한다.</SkillExplain>
+    <OrderConsume>8</OrderConsume>
+    <CoolDown>0</CoolDown>
+    <SkillEffect>최대 타겟수;대미지</SkillEffect>
+    <SkillRate>?/?/?/?/?/?/?/?/?/3;?/?/?/?/?/?/?/?/?/20</SkillRate>
+    <Note>붕괴학원 2 콜라</Note>
+  </Fairy>
+</NewDataSet>

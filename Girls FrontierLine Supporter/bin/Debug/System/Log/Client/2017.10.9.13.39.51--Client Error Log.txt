@@ -1,0 +1,3 @@
+'System.DBNull' 형식 개체를 'System.String' 형식으로 캐스팅할 수 없습니다.
+
+   위치: Girls_FrontierLine_Supporter.MainForm.<ListEnemy>d__19.MoveNext() 파일 C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 511

@@ -1,0 +1,83 @@
+C:\Users\Administrator\Downloads\Girls FrontierLine Supporter\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.exe.config
+C:\Users\Administrator\Downloads\Girls FrontierLine Supporter\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.exe
+C:\Users\Administrator\Downloads\Girls FrontierLine Supporter\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.MainForm.resources
+C:\Users\Administrator\Downloads\Girls FrontierLine Supporter\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Girls FrontierLine Supporter\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.exe
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.exe.config
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.exe
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.MainForm.resources
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.csproj.GenerateResource.Cache
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.exe
+C:\Users\user\Downloads\GFS\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.exe.config
+C:\Users\user\Downloads\GFS\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.exe
+C:\Users\user\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.MainForm.resources
+C:\Users\user\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.exe
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.exe.config
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.exe
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.MainForm.resources
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.csproj.GenerateResource.Cache
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.TrustInfo.xml
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.exe.manifest
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.exe.manifest
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.application
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.exe
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.application
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.Properties.Resources.resources
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.DollImageView.resources
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.GFSInfo.resources
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.Notification.resources
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.ProductTimeTable.resources
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.GFSHelp.resources
+C:\Users\URK96\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.Setting.resources
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.exe.manifest
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.application
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.DollImageView.resources
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.EquipmentSelector.resources
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.GFSHelp.resources
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.ProductTimeTable.resources
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.GFSInfo.resources
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.Notification.resources
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.Properties.Resources.resources
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.Setting.resources
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.TrustInfo.xml
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.exe.manifest
+C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.application
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.exe.config
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.exe
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.DollImageView.resources
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.EquipmentSelector.resources
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.GFSHelp.resources
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.ProductTimeTable.resources
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.GFSInfo.resources
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.MainForm.resources
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.Notification.resources
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.Properties.Resources.resources
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.Setting.resources
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.exe
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.exe.config
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\bin\Release\Girls FrontierLine Supporter.exe
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\bin\Release\spine-csharp.dll
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\bin\Release\Interop.SHDocVw.dll
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Interop.SHDocVw.dll
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.csproj.ResolveComReference.cache
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.ComicViewer.resources
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.DollAbilityChartViewer.resources
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.DollImageView.resources
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.EquipmentSelector.resources
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.ExpectFormationSimul.resources
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.GFSHelp.resources
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.ProductTimeTable.resources
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.GFSInfo.resources
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.MainForm.resources
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.Notification.resources
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.Properties.Resources.resources
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.Setting.resources
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.SkillViewer.resources
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls_FrontierLine_Supporter.SplashScreen.resources
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.csproj.GenerateResource.cache
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.csproj.CoreCompileInputs.cache
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.csproj.CopyComplete
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.exe
+E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\obj\Release\Girls FrontierLine Supporter.csprojAssemblyReference.cache

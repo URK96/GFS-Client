@@ -1,0 +1,4 @@
+'System.Windows.Forms.NumericUpDown' 형식 개체를 'System.IConvertible' 형식으로 캐스팅할 수 없습니다.
+
+   위치: System.Convert.ToInt32(Object value)
+   위치: Girls_FrontierLine_Supporter.MainForm.<ProductSimulDollProductButton_Click>d__106.MoveNext() 파일 C:\Users\Cyber\Downloads\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 2507

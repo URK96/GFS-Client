@@ -1,0 +1,5 @@
+'DicNumber' 열은 Fairy 테이블에 속하지 않습니다.
+
+   위치: System.Data.DataRow.GetDataColumn(String columnName)
+   위치: System.Data.DataRow.get_Item(String columnName)
+   위치: Girls_FrontierLine_Supporter.MainForm.FairyDicFairyDetailInfoWeb_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e) 파일 C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 3016

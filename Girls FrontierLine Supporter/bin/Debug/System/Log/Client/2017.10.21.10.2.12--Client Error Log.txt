@@ -1,0 +1,6 @@
+웨이브 헤더가 손상되었습니다.
+
+   위치: System.Media.SoundPlayer.ValidateSoundData(Byte[] data)
+   위치: System.Media.SoundPlayer.LoadAndPlay(Int32 flags)
+   위치: System.Media.SoundPlayer.Play()
+   위치: Girls_FrontierLine_Supporter.MainForm.DollVoicePlayButton_Click(Object sender, EventArgs e) 파일 C:\Users\Administrator\Downloads\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 2271

@@ -1,0 +1,18 @@
+'E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\bin\Debug\Data\DB\FairyAttribution.gfs' 파일을 찾을 수 없습니다.
+
+   위치: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   위치: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   위치: System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   위치: System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   위치: System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   위치: System.Threading.CompressedStack.runTryCode(Object userData)
+   위치: System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   위치: System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   위치: System.Xml.XmlTextReaderImpl.OpenUrl()
+   위치: System.Xml.XmlTextReaderImpl.Read()
+   위치: System.Xml.XmlTextReader.Read()
+   위치: System.Xml.XmlReader.MoveToContent()
+   위치: System.Data.DataTable.ReadXml(XmlReader reader, Boolean denyResolving)
+   위치: System.Data.DataTable.ReadXml(String fileName)
+   위치: Girls_FrontierLine_Supporter.MainForm.<ReadDB>d__27.MoveNext() 파일 E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 353

@@ -1,0 +1,3 @@
+인덱스가 배열 범위를 벗어났습니다.
+
+   위치: Girls_FrontierLine_Supporter.SkillViewer.<LoadSkillInfo>d__4.MoveNext() 파일 E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\SkillViewer.cs:줄 99

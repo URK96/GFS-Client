@@ -1,0 +1,6 @@
+WebClient를 요청하는 동안 예외가 발생했습니다.
+
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   위치: Girls_FrontierLine_Updater.Updater.<UpdateClientNew>d__16.MoveNext()

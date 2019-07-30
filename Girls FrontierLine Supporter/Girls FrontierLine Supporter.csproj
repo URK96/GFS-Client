@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{AF2F6859-F2BE-4568-8756-7B9BE68C9B09}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Girls_FrontierLine_Supporter</RootNamespace>
+    <AssemblyName>Girls FrontierLine Supporter</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <DelaySign>False</DelaySign>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <NoStdLib>False</NoStdLib>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+    <WarningLevel>4</WarningLevel>
+    <PublishUrl>게시\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>2.7.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <BaseAddress>4194304</BaseAddress>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Optimize>False</Optimize>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>Custom</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>supporter_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>F2AA2DE9CD8D77151108ADB7A4B1525B65029F94</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Girls FrontierLine Supporter_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="spine-csharp">
+      <HintPath>..\spine-csharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ComicViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComicViewer.Designer.cs">
+      <DependentUpon>ComicViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DollAbilityChartViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DollAbilityChartViewer.Designer.cs">
+      <DependentUpon>DollAbilityChartViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DollImageView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DollImageView.Designer.cs">
+      <DependentUpon>DollImageView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EquipmentSelector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EquipmentSelector.Designer.cs">
+      <DependentUpon>EquipmentSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExpectFormationSimul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExpectFormationSimul.Designer.cs">
+      <DependentUpon>ExpectFormationSimul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GFSHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GFSHelp.Designer.cs">
+      <DependentUpon>GFSHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductTimeTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductTimeTable.Designer.cs">
+      <DependentUpon>ProductTimeTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ETC.cs" />
+    <Compile Include="GFSInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GFSInfo.Designer.cs">
+      <DependentUpon>GFSInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notification.Designer.cs">
+      <DependentUpon>Notification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Setting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setting.Designer.cs">
+      <DependentUpon>Setting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SkillViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkillViewer.Designer.cs">
+      <DependentUpon>SkillViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Fonts\H2MKPB.TTF" />
+    <None Include="Fonts\H2PORL.TTF" />
+    <None Include="Fonts\H2SA1M.TTF" />
+    <None Include="Girls FrontierLine Supporter_TemporaryKey.pfx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ComicViewer.resx">
+      <DependentUpon>ComicViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DollAbilityChartViewer.resx">
+      <DependentUpon>DollAbilityChartViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DollImageView.resx">
+      <DependentUpon>DollImageView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EquipmentSelector.resx">
+      <DependentUpon>EquipmentSelector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExpectFormationSimul.resx">
+      <DependentUpon>ExpectFormationSimul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GFSHelp.resx">
+      <DependentUpon>GFSHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductTimeTable.resx">
+      <DependentUpon>ProductTimeTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GFSInfo.resx">
+      <DependentUpon>GFSInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notification.resx">
+      <DependentUpon>Notification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting.resx">
+      <DependentUpon>Setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkillViewer.resx">
+      <DependentUpon>SkillViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4%28x86 및 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cancel.png" />
+    <Content Include="error.png" />
+    <Content Include="iconrec1.png" />
+    <Content Include="iconrec2.jpg" />
+    <None Include="Icon\BG\dial.png" />
+    <Content Include="notification_banner.jpg" />
+    <Content Include="play.png" />
+    <None Include="Resources\Manpower_Icon.png" />
+    <None Include="Resources\Food_Icon.png" />
+    <None Include="Resources\Ammo_Icon.png" />
+    <None Include="Resources\Parts_Icon.png" />
+    <Content Include="Resources\RadarChart_Icon.png" />
+    <None Include="Resources\RadarChart_Icon1.png" />
+    <Content Include="supporter_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

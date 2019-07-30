@@ -1,0 +1,3 @@
+'System.String' 형식 개체를 'System.Data.DataRow' 형식으로 캐스팅할 수 없습니다.
+
+   위치: Girls_FrontierLine_Supporter.MainForm.<ProductProcess_Equipment>d__111.MoveNext() 파일 E:\URK96\URK96\Working\Project\GFS Project\GFS\Girls FrontierLine Supporter\MainForm.cs:줄 3615
